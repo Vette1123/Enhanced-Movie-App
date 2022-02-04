@@ -53,12 +53,10 @@ header a:hover {
 /* movies styling */
 main {
   display: flex;
-  align-items: center;
-  justify-content: space-around;
   flex-wrap: wrap;
 }
 .movie {
-  width: 500px;
+  width: 600px;
   margin: 1rem;
   background-color: var(--secondary-color);
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.5);
